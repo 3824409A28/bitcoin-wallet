@@ -25,7 +25,7 @@ import android.app.ActivityManager.TaskDescription;
 import android.os.Build;
 import android.os.Bundle;
 import de.schildbach.wallet.WalletApplication;
-import de.schildbach.wallet_test.R;
+import de.schildbach.wallet.R;
 
 /**
  * @author Andreas Schildbach
